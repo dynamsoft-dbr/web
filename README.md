@@ -14,3 +14,6 @@ The front-end JavaScript library communicates with the back-end service. It is a
 ## Play the Demo
 Open **index.htm** in Chrome:
 ![Dynamsoft JavaScript Barcode SDK](http://www.codepool.biz/wp-content/uploads/2017/05/dbr-js-sdk.PNG)
+
+## Blog
+[How to Use Dynamsoft JavaScript Barcode SDK](http://www.codepool.biz/dynamsoft-javascript-barcode-sdk.html)
